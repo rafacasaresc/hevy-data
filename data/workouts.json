@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T17:51:01.111825+00:00",
+  "updated_at": "2026-04-11T17:34:51.799302+00:00",
   "workout_count": {
     "workout_count": 44
   },
@@ -1826,12 +1826,12 @@
     },
     {
       "id": "72a88a83-6256-4655-b022-0646a8c171f7",
-      "title": "ENTRENO CON LA ROSIO😍",
+      "title": "Entrenamiento Matutino ☀️",
       "routine_id": null,
       "description": "",
       "start_time": "2026-03-30T14:43:06+00:00",
-      "end_time": "2026-03-30T15:46:32+00:00",
-      "updated_at": "2026-03-30T19:51:02.547Z",
+      "end_time": "2026-03-30T15:46:39+00:00",
+      "updated_at": "2026-04-11T09:25:30.749Z",
       "created_at": "2026-03-30T15:50:25.875Z",
       "exercises": [
         {
