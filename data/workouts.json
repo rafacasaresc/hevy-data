@@ -1,9 +1,226 @@
 {
-  "updated_at": "2026-05-13T18:57:23.228967+00:00",
+  "updated_at": "2026-05-14T18:54:39.786850+00:00",
   "workout_count": {
-    "workout_count": 62
+    "workout_count": 63
   },
   "workouts": [
+    {
+      "id": "a8c5cfb4-6c7e-4a54-a827-a348687f08ee",
+      "title": "PIERNA ANTERIOR",
+      "routine_id": "25c6d885-8d1c-441a-a27e-ea3c4dd01060",
+      "description": "ENTRENO DE PIERNAS Q ME MANDA DIRECTO AL CAGADERO. ISQUIO CON UN POCO DE DOLOR, QUITO CURL DE FEMORAL",
+      "start_time": "2026-05-14T13:57:31+00:00",
+      "end_time": "2026-05-14T15:25:44+00:00",
+      "updated_at": "2026-05-14T15:56:56.739Z",
+      "created_at": "2026-05-14T15:24:39.111Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Elevación de Gemelos Sentado",
+          "notes": "",
+          "exercise_template_id": "062AB91A",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "Extensión de Pierna",
+          "notes": "nueva maquina resistencia mas al principio y menos al final",
+          "exercise_template_id": "75A4F6C4",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 102,
+              "reps": 11,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 106,
+              "reps": 12,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 106,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Sentadilla Hack (Máquina)",
+          "notes": "",
+          "exercise_template_id": "1E42FD5F",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 130,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 130,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 130,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Press de Piernas",
+          "notes": "",
+          "exercise_template_id": "C7973E0E",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 110,
+              "reps": 14,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 8.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 140,
+              "reps": 11,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 140,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Aducción de Caderas",
+          "notes": "",
+          "exercise_template_id": "8BEBFED6",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 79,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 79,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 79,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d031708a-11f9-422c-9b78-8ed9d92012db",
       "title": "PULL DAY",
