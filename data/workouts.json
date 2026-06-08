@@ -1,9 +1,284 @@
 {
-  "updated_at": "2026-06-07T18:05:49.557499+00:00",
+  "updated_at": "2026-06-08T19:22:13.250979+00:00",
   "workout_count": {
-    "workout_count": 73
+    "workout_count": 74
   },
   "workouts": [
+    {
+      "id": "bdd2f3e8-5088-4703-bc4e-0a7d8a999f03",
+      "title": "PUSH DAY 2",
+      "routine_id": "45b63a42-645a-4068-9eab-9779b47cdf8c",
+      "description": "",
+      "start_time": "2026-06-08T13:37:27+00:00",
+      "end_time": "2026-06-08T15:32:29+00:00",
+      "updated_at": "2026-06-08T15:32:38.360Z",
+      "created_at": "2026-06-08T15:32:38.360Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Aperturas Inclinadas (Mancuerna)",
+          "notes": "",
+          "exercise_template_id": "D3E2AB55",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 40,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 40,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 40,
+              "reps": 7,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "PRESS PECHO PALANCA",
+          "notes": "",
+          "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 120,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 120,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 120,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 120,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "PRESS INCLINAO MAQUINA",
+          "notes": "",
+          "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 80,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 80,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 11,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Elevación Lateral a un Brazo (Cable)",
+          "notes": "",
+          "exercise_template_id": "DE68C825",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 35,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 35,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 35,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Jalón de tríceps con cuerda",
+          "notes": "",
+          "exercise_template_id": "94B7239B",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 50,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 50,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "dropset",
+              "weight_kg": 50,
+              "reps": 7,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Press Francés (Mancuerna)",
+          "notes": "",
+          "exercise_template_id": "68F8A292",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 20,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 20,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 20,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "title": "Cinta",
+          "notes": "",
+          "exercise_template_id": "243710DE",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": null,
+              "reps": null,
+              "distance_meters": 2400,
+              "duration_seconds": 1800,
+              "rpe": null,
+              "custom_metric": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3d64020f-2e6a-428f-a25a-d03bef1048b6",
       "title": "PIERNA POSTERIOR",
