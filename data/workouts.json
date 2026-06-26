@@ -1,9 +1,236 @@
 {
-  "updated_at": "2026-06-25T19:06:29.095890+00:00",
+  "updated_at": "2026-06-26T18:53:52.290622+00:00",
   "workout_count": {
-    "workout_count": 75
+    "workout_count": 76
   },
   "workouts": [
+    {
+      "id": "0694161e-0921-45e6-b5e5-aed4ab1bfc7a",
+      "title": "PUSH DAY 2",
+      "routine_id": "45b63a42-645a-4068-9eab-9779b47cdf8c",
+      "description": "VOLVEMOS CON EL ENTRENO MAS SUAVON DE LA HISTORIA LETS FUCKING GO",
+      "start_time": "2026-06-26T13:31:09+00:00",
+      "end_time": "2026-06-26T14:37:14+00:00",
+      "updated_at": "2026-06-26T14:37:55.020Z",
+      "created_at": "2026-06-26T14:37:55.020Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Aperturas Inclinadas (Mancuerna)",
+          "notes": "",
+          "exercise_template_id": "D3E2AB55",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 20,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 7.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 30,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 8.5,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 30,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 30,
+              "reps": 7,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "PRESS PECHO PALANCA",
+          "notes": "",
+          "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 100,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 100,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 100,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "PRESS INCLINAO MAQUINA",
+          "notes": "",
+          "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Elevación Lateral a un Brazo (Cable)",
+          "notes": "",
+          "exercise_template_id": "DE68C825",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 30,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 30,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 30,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Jalón de tríceps con cuerda",
+          "notes": "",
+          "exercise_template_id": "94B7239B",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 30,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 7.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 40,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 8.5,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 40,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 8.5,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 40,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "86936237-b209-4218-9188-bce7d096de85",
       "title": "PULL DAY",
