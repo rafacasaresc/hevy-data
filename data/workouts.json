@@ -1,9 +1,255 @@
 {
-  "updated_at": "2026-06-28T18:06:29.171627+00:00",
+  "updated_at": "2026-06-29T19:04:53.457083+00:00",
   "workout_count": {
-    "workout_count": 78
+    "workout_count": 79
   },
   "workouts": [
+    {
+      "id": "b07d1a3d-0c37-4cd5-8d3d-8da765cd8782",
+      "title": "UPPER DAY",
+      "routine_id": "191a8099-377d-45e2-97ee-d27f14402eed",
+      "description": "",
+      "start_time": "2026-06-29T13:33:16+00:00",
+      "end_time": "2026-06-29T15:18:55+00:00",
+      "updated_at": "2026-06-29T15:19:00.712Z",
+      "created_at": "2026-06-29T15:19:00.712Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Jalón al Pecho (Cable)",
+          "notes": "",
+          "exercise_template_id": "6A6C31A5",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 75,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 75,
+              "reps": 7,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 70,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "Remo Bajo Iso-Lateral",
+          "notes": "",
+          "exercise_template_id": "91FAFBA3",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 90,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 90,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 90,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Press banca pectoral recto",
+          "notes": "",
+          "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 8.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 8.5,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Mariposa (Pec Deck)",
+          "notes": "",
+          "exercise_template_id": "9DCE2D64",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 31.8,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 31.8,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 31.8,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "title": "MAQUINA HOMBRO LATERAL PALANCA",
+          "notes": "",
+          "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 20,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 20,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 20,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Vuelos Posteriores (Máquina)",
+          "notes": "",
+          "exercise_template_id": "D8281C62",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 27.2,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 27.2,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 27.2,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2b274dff-cd2f-427c-98f6-c549fc2f4f54",
       "title": "PIERNA ANTERIOR",
@@ -11,7 +257,7 @@
       "description": "SUAVON LEG DAY PAPA CON ESTE FLOW AUTISTA",
       "start_time": "2026-06-28T11:13:09+00:00",
       "end_time": "2026-06-28T12:47:44+00:00",
-      "updated_at": "2026-06-28T12:49:20.991Z",
+      "updated_at": "2026-06-29T14:59:50.258Z",
       "created_at": "2026-06-28T12:46:51.233Z",
       "exercises": [
         {
