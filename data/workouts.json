@@ -1,9 +1,207 @@
 {
-  "updated_at": "2026-07-21T18:16:09.975653+00:00",
+  "updated_at": "2026-07-22T18:08:09.207874+00:00",
   "workout_count": {
-    "workout_count": 85
+    "workout_count": 86
   },
   "workouts": [
+    {
+      "id": "1cfd55e0-b588-4679-bdd7-333d5d302685",
+      "title": "PIERNA ANTERIOR",
+      "routine_id": "25c6d885-8d1c-441a-a27e-ea3c4dd01060",
+      "description": "amazing homosexual entreno de pierna",
+      "start_time": "2026-07-21T17:38:17+00:00",
+      "end_time": "2026-07-21T19:02:39+00:00",
+      "updated_at": "2026-07-21T19:02:58.114Z",
+      "created_at": "2026-07-21T19:02:58.114Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Extensión de Pierna",
+          "notes": "",
+          "exercise_template_id": "75A4F6C4",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 93.5,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 93.5,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 7,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 93.5,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 7.5,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 93.5,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 7.5,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "Curl de Pierna Sentado",
+          "notes": "",
+          "exercise_template_id": "11A123F3",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 22.7,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 22.7,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 22.7,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 22.7,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Aducción de Caderas",
+          "notes": "",
+          "exercise_template_id": "8BEBFED6",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 22.7,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 31.8,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 31.8,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Elevación de Gemelos de Pie (Máquina)",
+          "notes": "",
+          "exercise_template_id": "E05C2C38",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 35,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 35,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 35,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 35,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "97e4238a-82a5-411b-9991-721ff275ca7e",
       "title": "PULL DAY",
