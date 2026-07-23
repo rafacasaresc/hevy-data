@@ -1,9 +1,265 @@
 {
-  "updated_at": "2026-07-22T18:08:09.207874+00:00",
+  "updated_at": "2026-07-23T18:14:03.513624+00:00",
   "workout_count": {
-    "workout_count": 86
+    "workout_count": 87
   },
   "workouts": [
+    {
+      "id": "ecf0dce1-6e21-4468-ba5a-9a0a766fbe0c",
+      "title": "PUSH DAY 2",
+      "routine_id": "45b63a42-645a-4068-9eab-9779b47cdf8c",
+      "description": "",
+      "start_time": "2026-07-22T17:31:16+00:00",
+      "end_time": "2026-07-22T19:23:56+00:00",
+      "updated_at": "2026-07-23T08:03:11.462Z",
+      "created_at": "2026-07-22T19:24:54.263Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Aperturas Inclinadas (Mancuerna)",
+          "notes": "",
+          "exercise_template_id": "D3E2AB55",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 35,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 35,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 30,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "PRESS PECHO PALANCA",
+          "notes": "",
+          "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 110,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 110,
+              "reps": 7,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 100,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 100,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "PRESS INCLINAO MAQUINA",
+          "notes": "",
+          "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 8.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "MAQUINA HOMBRO LATERAL PALANCA",
+          "notes": "",
+          "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 25,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 25,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 20,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Jalón de tríceps con cuerda",
+          "notes": "",
+          "exercise_template_id": "94B7239B",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 50,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 50,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 45,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Press Francés (Mancuerna)",
+          "notes": "",
+          "exercise_template_id": "68F8A292",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 25,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 25,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 25,
+              "reps": 7,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1cfd55e0-b588-4679-bdd7-333d5d302685",
       "title": "PIERNA ANTERIOR",
@@ -1291,7 +1547,7 @@
       "description": "SEGUNDO ENTRENO SIN LAS GAFAS DEMONIACAS Y CON MONSTERINI",
       "start_time": "2026-07-07T12:53:15+00:00",
       "end_time": "2026-07-07T14:34:15+00:00",
-      "updated_at": "2026-07-07T14:34:52.929Z",
+      "updated_at": "2026-07-23T08:26:43.404Z",
       "created_at": "2026-07-07T14:34:52.929Z",
       "exercises": [
         {
