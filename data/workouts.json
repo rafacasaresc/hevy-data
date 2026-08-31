@@ -1,9 +1,148 @@
 {
-  "updated_at": "2026-08-30T19:39:44.108791+00:00",
+  "updated_at": "2026-08-31T21:46:33.900175+00:00",
   "workout_count": {
-    "workout_count": 103
+    "workout_count": 104
   },
   "workouts": [
+    {
+      "id": "f33dd656-a9e5-4df8-8e2e-80f9402c01f3",
+      "title": "RECOVERY LEG DAY",
+      "routine_id": "99ac2c48-b382-4bef-84f3-5f206f7d716e",
+      "description": "",
+      "start_time": "2026-08-31T13:39:10+00:00",
+      "end_time": "2026-08-31T14:25:01+00:00",
+      "updated_at": "2026-08-31T14:25:08.714Z",
+      "created_at": "2026-08-31T14:25:08.714Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Extensión de Pierna",
+          "notes": "",
+          "exercise_template_id": "75A4F6C4",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 116,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 116,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 116,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 116,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "Peso Muerto Rumano (Mancuerna)",
+          "notes": "SIN DOLOR",
+          "exercise_template_id": "72CFFAD5",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 20,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 20,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 20,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Curls de Piernas de Pie",
+          "notes": "SIN DOLOR",
+          "exercise_template_id": "6120CAAB",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 2.5,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 2.5,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 2.5,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 6,
+              "custom_metric": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0ff5b0dd-9c46-4907-aca3-c5d6b849d452",
       "title": "PULL DAY",
