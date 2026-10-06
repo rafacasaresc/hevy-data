@@ -1,9 +1,177 @@
 {
-  "updated_at": "2026-10-05T23:04:16.970006+00:00",
+  "updated_at": "2026-10-06T21:27:42.159103+00:00",
   "workout_count": {
-    "workout_count": 107
+    "workout_count": 108
   },
   "workouts": [
+    {
+      "id": "5516cdbd-fcc0-4cc8-b3e5-fa7ba96dbc7f",
+      "title": "PULL DAY",
+      "routine_id": "a48d0a6a-70f0-4d48-a150-6726f7552918",
+      "description": "",
+      "start_time": "2026-10-06T13:58:51+00:00",
+      "end_time": "2026-10-06T14:46:35+00:00",
+      "updated_at": "2026-10-06T14:46:39.153Z",
+      "created_at": "2026-10-06T14:46:39.153Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
+          "notes": null,
+          "exercise_template_id": "4E5257DE",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 70,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 70,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 70,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "Remo Alto Iso-Lateral",
+          "notes": null,
+          "exercise_template_id": "BC3492DA",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 80,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 8.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 80,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 80,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Remo a Un Brazo (Cable)",
+          "notes": null,
+          "exercise_template_id": "D0C4A899",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 90,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 90,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 90,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Curl predicador (máquina)",
+          "notes": null,
+          "exercise_template_id": "1E9A6B8E",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 17.5,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 8.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 17.5,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 17.5,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "8ed0c6c9-8578-4ea5-96f5-fee610f96a6c",
       "title": "PUSH DAY 2",
@@ -17,7 +185,7 @@
         {
           "index": 0,
           "title": "Mariposa (Pec Deck)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9DCE2D64",
           "superset_id": null,
           "sets": [
@@ -56,7 +224,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -95,7 +263,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -134,7 +302,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -173,7 +341,7 @@
         {
           "index": 4,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -224,7 +392,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -263,7 +431,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -302,7 +470,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -341,7 +509,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -380,7 +548,7 @@
         {
           "index": 4,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -431,7 +599,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -470,7 +638,7 @@
         {
           "index": 1,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -509,7 +677,7 @@
         {
           "index": 2,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -548,7 +716,7 @@
         {
           "index": 3,
           "title": "Mariposa (Pec Deck)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9DCE2D64",
           "superset_id": null,
           "sets": [
@@ -587,7 +755,7 @@
         {
           "index": 4,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -626,7 +794,7 @@
         {
           "index": 5,
           "title": "Vuelos Posteriores (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "C315DC2A",
           "superset_id": null,
           "sets": [
@@ -704,7 +872,7 @@
         {
           "index": 7,
           "title": "Peso Muerto Rumano (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "72CFFAD5",
           "superset_id": null,
           "sets": [
@@ -743,7 +911,7 @@
         {
           "index": 8,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -794,7 +962,7 @@
         {
           "index": 0,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -933,7 +1101,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -972,7 +1140,7 @@
         {
           "index": 1,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -1011,7 +1179,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -1050,7 +1218,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -1089,7 +1257,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -1128,7 +1296,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -1179,7 +1347,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -1218,7 +1386,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -1267,7 +1435,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -1306,7 +1474,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -1345,7 +1513,7 @@
         {
           "index": 4,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -1384,7 +1552,7 @@
         {
           "index": 5,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -1435,7 +1603,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -1474,7 +1642,7 @@
         {
           "index": 1,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -1513,7 +1681,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -1552,7 +1720,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -1591,7 +1759,7 @@
         {
           "index": 4,
           "title": "LOW ROW",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "0cf3a5ba-d99e-44a3-979d-8984a9ccd522",
           "superset_id": null,
           "sets": [
@@ -1630,7 +1798,7 @@
         {
           "index": 5,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -1669,7 +1837,7 @@
         {
           "index": 6,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -1720,7 +1888,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -1759,7 +1927,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -1808,7 +1976,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -1847,7 +2015,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -1886,7 +2054,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -1925,7 +2093,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -1964,7 +2132,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -2015,7 +2183,7 @@
         {
           "index": 0,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -2064,7 +2232,7 @@
         {
           "index": 1,
           "title": "Abducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "F4B4C6EE",
           "superset_id": null,
           "sets": [
@@ -2103,7 +2271,7 @@
         {
           "index": 2,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -2142,7 +2310,7 @@
         {
           "index": 3,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -2191,7 +2359,7 @@
         {
           "index": 4,
           "title": "Abdominal Corto (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "EB43ADD4",
           "superset_id": null,
           "sets": [
@@ -2242,7 +2410,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -2281,7 +2449,7 @@
         {
           "index": 1,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -2320,7 +2488,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -2359,7 +2527,7 @@
         {
           "index": 3,
           "title": "LOW ROW",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "0cf3a5ba-d99e-44a3-979d-8984a9ccd522",
           "superset_id": null,
           "sets": [
@@ -2398,7 +2566,7 @@
         {
           "index": 4,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -2437,7 +2605,7 @@
         {
           "index": 5,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -2476,7 +2644,7 @@
         {
           "index": 6,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -2527,7 +2695,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -2566,7 +2734,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -2615,7 +2783,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -2654,7 +2822,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -2693,7 +2861,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -2732,7 +2900,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -2771,7 +2939,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -2822,7 +2990,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -2861,7 +3029,7 @@
         {
           "index": 1,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -2900,7 +3068,7 @@
         {
           "index": 2,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -2939,7 +3107,7 @@
         {
           "index": 3,
           "title": "Mariposa (Pec Deck)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9DCE2D64",
           "superset_id": null,
           "sets": [
@@ -2978,7 +3146,7 @@
         {
           "index": 4,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -3017,7 +3185,7 @@
         {
           "index": 5,
           "title": "Vuelos Posteriores (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "C315DC2A",
           "superset_id": null,
           "sets": [
@@ -3068,7 +3236,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -3107,7 +3275,7 @@
         {
           "index": 1,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -3146,7 +3314,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -3185,7 +3353,7 @@
         {
           "index": 3,
           "title": "LOW ROW",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "0cf3a5ba-d99e-44a3-979d-8984a9ccd522",
           "superset_id": null,
           "sets": [
@@ -3263,7 +3431,7 @@
         {
           "index": 5,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -3302,7 +3470,7 @@
         {
           "index": 6,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -3353,7 +3521,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -3392,7 +3560,7 @@
         {
           "index": 1,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -3431,7 +3599,7 @@
         {
           "index": 2,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -3480,7 +3648,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -3519,7 +3687,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -3558,7 +3726,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -3597,7 +3765,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -3648,7 +3816,7 @@
         {
           "index": 0,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -3697,7 +3865,7 @@
         {
           "index": 1,
           "title": "Abducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "F4B4C6EE",
           "superset_id": null,
           "sets": [
@@ -3736,7 +3904,7 @@
         {
           "index": 2,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -3775,7 +3943,7 @@
         {
           "index": 3,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -3824,7 +3992,7 @@
         {
           "index": 4,
           "title": "Abdominal Corto (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "EB43ADD4",
           "superset_id": null,
           "sets": [
@@ -3875,7 +4043,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -3914,7 +4082,7 @@
         {
           "index": 1,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -3953,7 +4121,7 @@
         {
           "index": 2,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -3992,7 +4160,7 @@
         {
           "index": 3,
           "title": "Mariposa (Pec Deck)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9DCE2D64",
           "superset_id": null,
           "sets": [
@@ -4031,7 +4199,7 @@
         {
           "index": 4,
           "title": "Vuelos Posteriores (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "C315DC2A",
           "superset_id": null,
           "sets": [
@@ -4070,7 +4238,7 @@
         {
           "index": 5,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -4121,7 +4289,7 @@
         {
           "index": 0,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -4170,7 +4338,7 @@
         {
           "index": 1,
           "title": "Abducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "F4B4C6EE",
           "superset_id": null,
           "sets": [
@@ -4209,7 +4377,7 @@
         {
           "index": 2,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -4248,7 +4416,7 @@
         {
           "index": 3,
           "title": "Peso Muerto (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "C6272009",
           "superset_id": null,
           "sets": [
@@ -4287,7 +4455,7 @@
         {
           "index": 4,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -4348,7 +4516,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -4387,7 +4555,7 @@
         {
           "index": 1,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -4426,7 +4594,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -4465,7 +4633,7 @@
         {
           "index": 3,
           "title": "LOW ROW",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "0cf3a5ba-d99e-44a3-979d-8984a9ccd522",
           "superset_id": null,
           "sets": [
@@ -4504,7 +4672,7 @@
         {
           "index": 4,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -4543,7 +4711,7 @@
         {
           "index": 5,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -4582,7 +4750,7 @@
         {
           "index": 6,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -4633,7 +4801,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -4672,7 +4840,7 @@
         {
           "index": 1,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -4711,7 +4879,7 @@
         {
           "index": 2,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -4760,7 +4928,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -4799,7 +4967,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -4838,7 +5006,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -4877,7 +5045,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -4928,7 +5096,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -4967,7 +5135,7 @@
         {
           "index": 1,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -5006,7 +5174,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -5045,7 +5213,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -5084,7 +5252,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -5123,7 +5291,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -5174,7 +5342,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -5213,7 +5381,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -5262,7 +5430,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -5301,7 +5469,7 @@
         {
           "index": 3,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -5340,7 +5508,7 @@
         {
           "index": 4,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -5379,7 +5547,7 @@
         {
           "index": 5,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -5430,7 +5598,7 @@
         {
           "index": 0,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -5479,7 +5647,7 @@
         {
           "index": 1,
           "title": "Curl de Pierna Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "11A123F3",
           "superset_id": null,
           "sets": [
@@ -5528,7 +5696,7 @@
         {
           "index": 2,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -5567,7 +5735,7 @@
         {
           "index": 3,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -5628,7 +5796,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -5667,7 +5835,7 @@
         {
           "index": 1,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -5706,7 +5874,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -5784,7 +5952,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -5823,7 +5991,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -5874,7 +6042,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -5913,7 +6081,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -5962,7 +6130,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -6001,7 +6169,7 @@
         {
           "index": 3,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -6040,7 +6208,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -6079,7 +6247,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -6118,7 +6286,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -6247,7 +6415,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -6286,7 +6454,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -6325,7 +6493,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -6364,7 +6532,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -6503,7 +6671,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -6542,7 +6710,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -6581,7 +6749,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -6620,7 +6788,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -6659,7 +6827,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -6788,7 +6956,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -6827,7 +6995,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -6866,7 +7034,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -6905,7 +7073,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -6956,7 +7124,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -6995,7 +7163,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -7044,7 +7212,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -7083,7 +7251,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -7122,7 +7290,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -7161,7 +7329,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -7200,7 +7368,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -7251,7 +7419,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -7290,7 +7458,7 @@
         {
           "index": 1,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -7329,7 +7497,7 @@
         {
           "index": 2,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -7368,7 +7536,7 @@
         {
           "index": 3,
           "title": "Mariposa (Pec Deck)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9DCE2D64",
           "superset_id": null,
           "sets": [
@@ -7407,7 +7575,7 @@
         {
           "index": 4,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -7446,7 +7614,7 @@
         {
           "index": 5,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -7497,7 +7665,7 @@
         {
           "index": 0,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -7546,7 +7714,7 @@
         {
           "index": 1,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -7585,7 +7753,7 @@
         {
           "index": 2,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -7634,7 +7802,7 @@
         {
           "index": 3,
           "title": "Press de Piernas Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "0EB695C9",
           "superset_id": null,
           "sets": [
@@ -7673,7 +7841,7 @@
         {
           "index": 4,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -7724,7 +7892,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -7763,7 +7931,7 @@
         {
           "index": 1,
           "title": "Remo Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "55E6546F",
           "superset_id": null,
           "sets": [
@@ -7802,7 +7970,7 @@
         {
           "index": 2,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -7841,7 +8009,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -7880,7 +8048,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -7919,7 +8087,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -7970,7 +8138,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -8019,7 +8187,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -8058,7 +8226,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -8097,7 +8265,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -8136,7 +8304,7 @@
         {
           "index": 4,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -8236,7 +8404,7 @@
         {
           "index": 1,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -8275,7 +8443,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -8314,7 +8482,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -8353,7 +8521,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -8392,7 +8560,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -8443,7 +8611,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -8482,7 +8650,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -8531,7 +8699,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -8570,7 +8738,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -8609,7 +8777,7 @@
         {
           "index": 4,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -8648,7 +8816,7 @@
         {
           "index": 5,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -8687,7 +8855,7 @@
         {
           "index": 6,
           "title": "Cinta",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "243710DE",
           "superset_id": null,
           "sets": [
@@ -8718,7 +8886,7 @@
         {
           "index": 0,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -8806,7 +8974,7 @@
         {
           "index": 2,
           "title": "Elevación de cadera (Máquina Smith)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "291ABA92",
           "superset_id": null,
           "sets": [
@@ -8884,7 +9052,7 @@
         {
           "index": 4,
           "title": "Abducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "F4B4C6EE",
           "superset_id": null,
           "sets": [
@@ -8935,7 +9103,7 @@
         {
           "index": 0,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -8974,7 +9142,7 @@
         {
           "index": 1,
           "title": "Mariposa (Pec Deck)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9DCE2D64",
           "superset_id": null,
           "sets": [
@@ -9013,7 +9181,7 @@
         {
           "index": 2,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -9052,7 +9220,7 @@
         {
           "index": 3,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -9091,7 +9259,7 @@
         {
           "index": 4,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -9130,7 +9298,7 @@
         {
           "index": 5,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -9220,7 +9388,7 @@
         {
           "index": 0,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -9269,7 +9437,7 @@
         {
           "index": 1,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -9308,7 +9476,7 @@
         {
           "index": 2,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -9347,7 +9515,7 @@
         {
           "index": 3,
           "title": "Press de Piernas Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "0EB695C9",
           "superset_id": null,
           "sets": [
@@ -9386,7 +9554,7 @@
         {
           "index": 4,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -9437,7 +9605,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -9486,7 +9654,7 @@
         {
           "index": 1,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -9525,7 +9693,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -9564,7 +9732,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -9603,7 +9771,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -9642,7 +9810,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -9712,7 +9880,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -9751,7 +9919,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -9800,7 +9968,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -9839,7 +10007,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -9878,7 +10046,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -9917,7 +10085,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -9956,7 +10124,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -10007,7 +10175,7 @@
         {
           "index": 0,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -10046,7 +10214,7 @@
         {
           "index": 1,
           "title": "Mariposa (Pec Deck)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9DCE2D64",
           "superset_id": null,
           "sets": [
@@ -10124,7 +10292,7 @@
         {
           "index": 3,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -10163,7 +10331,7 @@
         {
           "index": 4,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -10202,7 +10370,7 @@
         {
           "index": 5,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -10253,7 +10421,7 @@
         {
           "index": 0,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -10292,7 +10460,7 @@
         {
           "index": 1,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -10331,7 +10499,7 @@
         {
           "index": 2,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -10370,7 +10538,7 @@
         {
           "index": 3,
           "title": "LOW ROW",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "0cf3a5ba-d99e-44a3-979d-8984a9ccd522",
           "superset_id": null,
           "sets": [
@@ -10409,7 +10577,7 @@
         {
           "index": 4,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -10448,7 +10616,7 @@
         {
           "index": 5,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -10499,7 +10667,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -10538,7 +10706,7 @@
         {
           "index": 1,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -10577,7 +10745,7 @@
         {
           "index": 2,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -10616,7 +10784,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -10655,7 +10823,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -10694,7 +10862,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -10745,7 +10913,7 @@
         {
           "index": 0,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -10833,7 +11001,7 @@
         {
           "index": 2,
           "title": "Elevación de cadera (Máquina Smith)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "291ABA92",
           "superset_id": null,
           "sets": [
@@ -10872,7 +11040,7 @@
         {
           "index": 3,
           "title": "Sentadilla Péndulo (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "30E293E3",
           "superset_id": null,
           "sets": [
@@ -10962,7 +11130,7 @@
         {
           "index": 0,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -11001,7 +11169,7 @@
         {
           "index": 1,
           "title": "Mariposa (Pec Deck)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9DCE2D64",
           "superset_id": null,
           "sets": [
@@ -11040,7 +11208,7 @@
         {
           "index": 2,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -11079,7 +11247,7 @@
         {
           "index": 3,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -11118,7 +11286,7 @@
         {
           "index": 4,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -11157,7 +11325,7 @@
         {
           "index": 5,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -11196,7 +11364,7 @@
         {
           "index": 6,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -11257,7 +11425,7 @@
         {
           "index": 0,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -11345,7 +11513,7 @@
         {
           "index": 2,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -11384,7 +11552,7 @@
         {
           "index": 3,
           "title": "Press de Piernas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "C7973E0E",
           "superset_id": null,
           "sets": [
@@ -11423,7 +11591,7 @@
         {
           "index": 4,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -11474,7 +11642,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -11562,7 +11730,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -11601,7 +11769,7 @@
         {
           "index": 3,
           "title": "Jalón de dorsales con brazos rectos (polea)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D2387AB1",
           "superset_id": null,
           "sets": [
@@ -11640,7 +11808,7 @@
         {
           "index": 4,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -11679,7 +11847,7 @@
         {
           "index": 5,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -11718,7 +11886,7 @@
         {
           "index": 6,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -11769,7 +11937,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -11808,7 +11976,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -11857,7 +12025,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -11896,7 +12064,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -11935,7 +12103,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -11974,7 +12142,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -12013,7 +12181,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -12064,7 +12232,7 @@
         {
           "index": 0,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -12113,7 +12281,7 @@
         {
           "index": 1,
           "title": "Curl de Pierna Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "11A123F3",
           "superset_id": null,
           "sets": [
@@ -12152,7 +12320,7 @@
         {
           "index": 2,
           "title": "Elevación de cadera (Máquina Smith)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "291ABA92",
           "superset_id": null,
           "sets": [
@@ -12191,7 +12359,7 @@
         {
           "index": 3,
           "title": "Sentadilla Péndulo (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "30E293E3",
           "superset_id": null,
           "sets": [
@@ -12230,7 +12398,7 @@
         {
           "index": 4,
           "title": "Abducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "F4B4C6EE",
           "superset_id": null,
           "sets": [
@@ -12281,7 +12449,7 @@
         {
           "index": 0,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -12330,7 +12498,7 @@
         {
           "index": 1,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -12369,7 +12537,7 @@
         {
           "index": 2,
           "title": "Mariposa (Pec Deck)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9DCE2D64",
           "superset_id": null,
           "sets": [
@@ -12408,7 +12576,7 @@
         {
           "index": 3,
           "title": "LOW ROW",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "0cf3a5ba-d99e-44a3-979d-8984a9ccd522",
           "superset_id": null,
           "sets": [
@@ -12447,7 +12615,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D5D0354D",
           "superset_id": null,
           "sets": [
@@ -12486,7 +12654,7 @@
         {
           "index": 5,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -12525,7 +12693,7 @@
         {
           "index": 6,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -12586,7 +12754,7 @@
         {
           "index": 0,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -12635,7 +12803,7 @@
         {
           "index": 1,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -12674,7 +12842,7 @@
         {
           "index": 2,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -12713,7 +12881,7 @@
         {
           "index": 3,
           "title": "Press de Piernas Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "0EB695C9",
           "superset_id": null,
           "sets": [
@@ -12752,7 +12920,7 @@
         {
           "index": 4,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -12791,7 +12959,7 @@
         {
           "index": 5,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -12891,7 +13059,7 @@
         {
           "index": 1,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -12930,7 +13098,7 @@
         {
           "index": 2,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -13008,7 +13176,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -13047,7 +13215,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -13098,7 +13266,7 @@
         {
           "index": 0,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -13137,7 +13305,7 @@
         {
           "index": 1,
           "title": "PRESS PECHO PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "e8a81885-44b7-4874-8b64-d50249895f72",
           "superset_id": null,
           "sets": [
@@ -13186,7 +13354,7 @@
         {
           "index": 2,
           "title": "PRESS INCLINAO MAQUINA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "414b0b03-1725-4d28-bbd2-30258f1ed2a1",
           "superset_id": null,
           "sets": [
@@ -13303,7 +13471,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -13342,7 +13510,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -13393,7 +13561,7 @@
         {
           "index": 0,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -13442,7 +13610,7 @@
         {
           "index": 1,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -13520,7 +13688,7 @@
         {
           "index": 3,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -13559,7 +13727,7 @@
         {
           "index": 4,
           "title": "Jalón de Remo a Un Brazo",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D0C4A899",
           "superset_id": null,
           "sets": [
@@ -13637,7 +13805,7 @@
         {
           "index": 6,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -13698,7 +13866,7 @@
         {
           "index": 0,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -13747,7 +13915,7 @@
         {
           "index": 1,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -13786,7 +13954,7 @@
         {
           "index": 2,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -13825,7 +13993,7 @@
         {
           "index": 3,
           "title": "Peso Muerto Rumano (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "72CFFAD5",
           "superset_id": null,
           "sets": [
@@ -13864,7 +14032,7 @@
         {
           "index": 4,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -13903,7 +14071,7 @@
         {
           "index": 5,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -13954,7 +14122,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -14003,7 +14171,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -14042,7 +14210,7 @@
         {
           "index": 2,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -14081,7 +14249,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -14120,7 +14288,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -14159,7 +14327,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -14198,7 +14366,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -14237,7 +14405,7 @@
         {
           "index": 7,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -14298,7 +14466,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -14337,7 +14505,7 @@
         {
           "index": 1,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -14376,7 +14544,7 @@
         {
           "index": 2,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -14415,7 +14583,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -14454,7 +14622,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -14554,7 +14722,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -14593,7 +14761,7 @@
         {
           "index": 2,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -14632,7 +14800,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -14671,7 +14839,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -14700,7 +14868,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -14739,7 +14907,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -14790,7 +14958,7 @@
         {
           "index": 0,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -14839,7 +15007,7 @@
         {
           "index": 1,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -14878,7 +15046,7 @@
         {
           "index": 2,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -14917,7 +15085,7 @@
         {
           "index": 3,
           "title": "Peso Muerto Rumano (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "72CFFAD5",
           "superset_id": null,
           "sets": [
@@ -14956,7 +15124,7 @@
         {
           "index": 4,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -14995,7 +15163,7 @@
         {
           "index": 5,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -15046,7 +15214,7 @@
         {
           "index": 0,
           "title": "Press de Hombros (Máquina de Discos)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "059E835D",
           "superset_id": null,
           "sets": [
@@ -15085,7 +15253,7 @@
         {
           "index": 1,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -15124,7 +15292,7 @@
         {
           "index": 2,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -15163,7 +15331,7 @@
         {
           "index": 3,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -15202,7 +15370,7 @@
         {
           "index": 4,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -15263,7 +15431,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -15312,7 +15480,7 @@
         {
           "index": 1,
           "title": "Remo Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "55E6546F",
           "superset_id": null,
           "sets": [
@@ -15361,7 +15529,7 @@
         {
           "index": 2,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -15400,7 +15568,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -15449,7 +15617,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -15488,7 +15656,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -15539,7 +15707,7 @@
         {
           "index": 0,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -15588,7 +15756,7 @@
         {
           "index": 1,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -15627,7 +15795,7 @@
         {
           "index": 2,
           "title": "Sentadilla Péndulo (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "30E293E3",
           "superset_id": null,
           "sets": [
@@ -15666,7 +15834,7 @@
         {
           "index": 3,
           "title": "HORIZONTAL PRESS LEG",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "c485a30f-a828-40a3-9a74-02d7c56bd16f",
           "superset_id": null,
           "sets": [
@@ -15705,7 +15873,7 @@
         {
           "index": 4,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -15744,7 +15912,7 @@
         {
           "index": 5,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -15795,7 +15963,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -15844,7 +16012,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -15883,7 +16051,7 @@
         {
           "index": 2,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -15922,7 +16090,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -15961,7 +16129,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -16000,7 +16168,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -16039,7 +16207,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -16078,7 +16246,7 @@
         {
           "index": 7,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -16188,7 +16356,7 @@
         {
           "index": 1,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -16227,7 +16395,7 @@
         {
           "index": 2,
           "title": "Sentadilla Péndulo (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "30E293E3",
           "superset_id": null,
           "sets": [
@@ -16266,7 +16434,7 @@
         {
           "index": 3,
           "title": "Press de Piernas Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "0EB695C9",
           "superset_id": null,
           "sets": [
@@ -16305,7 +16473,7 @@
         {
           "index": 4,
           "title": "Abducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "F4B4C6EE",
           "superset_id": null,
           "sets": [
@@ -16356,7 +16524,7 @@
         {
           "index": 0,
           "title": "Press de Hombros (Máquina de Discos)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "059E835D",
           "superset_id": null,
           "sets": [
@@ -16395,7 +16563,7 @@
         {
           "index": 1,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -16434,7 +16602,7 @@
         {
           "index": 2,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -16473,7 +16641,7 @@
         {
           "index": 3,
           "title": "LOW ROW",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "0cf3a5ba-d99e-44a3-979d-8984a9ccd522",
           "superset_id": null,
           "sets": [
@@ -16512,7 +16680,7 @@
         {
           "index": 4,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -16561,7 +16729,7 @@
         {
           "index": 5,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -16612,7 +16780,7 @@
         {
           "index": 0,
           "title": "Peso Muerto Rumano (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "72CFFAD5",
           "superset_id": null,
           "sets": [
@@ -16651,7 +16819,7 @@
         {
           "index": 1,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -16690,7 +16858,7 @@
         {
           "index": 2,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -16729,7 +16897,7 @@
         {
           "index": 3,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -16768,7 +16936,7 @@
         {
           "index": 4,
           "title": "Sentadilla Sissy (Con Peso)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "F5DEF1EB",
           "superset_id": null,
           "sets": [
@@ -16807,7 +16975,7 @@
         {
           "index": 5,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -16846,7 +17014,7 @@
         {
           "index": 6,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -16946,7 +17114,7 @@
         {
           "index": 1,
           "title": "Remo Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "55E6546F",
           "superset_id": null,
           "sets": [
@@ -16995,7 +17163,7 @@
         {
           "index": 2,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -17083,7 +17251,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -17122,7 +17290,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -17161,7 +17329,7 @@
         {
           "index": 6,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -17222,7 +17390,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -17271,7 +17439,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -17310,7 +17478,7 @@
         {
           "index": 2,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -17349,7 +17517,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -17388,7 +17556,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -17427,7 +17595,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -17466,7 +17634,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -17505,7 +17673,7 @@
         {
           "index": 7,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -17615,7 +17783,7 @@
         {
           "index": 1,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -17654,7 +17822,7 @@
         {
           "index": 2,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -17703,7 +17871,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -17742,7 +17910,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -17781,7 +17949,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -17832,7 +18000,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -17871,7 +18039,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -17920,7 +18088,7 @@
         {
           "index": 2,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -17959,7 +18127,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -17998,7 +18166,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -18037,7 +18205,7 @@
         {
           "index": 5,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -18076,7 +18244,7 @@
         {
           "index": 6,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -18115,7 +18283,7 @@
         {
           "index": 7,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -18176,7 +18344,7 @@
         {
           "index": 0,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -18215,7 +18383,7 @@
         {
           "index": 1,
           "title": "Elevación de cadera (Máquina Smith)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "291ABA92",
           "superset_id": null,
           "sets": [
@@ -18254,7 +18422,7 @@
         {
           "index": 2,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -18293,7 +18461,7 @@
         {
           "index": 3,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -18383,7 +18551,7 @@
         {
           "index": 1,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -18422,7 +18590,7 @@
         {
           "index": 2,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -18461,7 +18629,7 @@
         {
           "index": 3,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -18500,7 +18668,7 @@
         {
           "index": 4,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -18539,7 +18707,7 @@
         {
           "index": 5,
           "title": "Tirón a la Cara",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BE640BA0",
           "superset_id": null,
           "sets": [
@@ -18590,7 +18758,7 @@
         {
           "index": 0,
           "title": "Peso Muerto Rumano (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "72CFFAD5",
           "superset_id": null,
           "sets": [
@@ -18629,7 +18797,7 @@
         {
           "index": 1,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -18668,7 +18836,7 @@
         {
           "index": 2,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -18707,7 +18875,7 @@
         {
           "index": 3,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -18746,7 +18914,7 @@
         {
           "index": 4,
           "title": "Aducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8BEBFED6",
           "superset_id": null,
           "sets": [
@@ -18875,7 +19043,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -19012,7 +19180,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -19051,7 +19219,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -19090,7 +19258,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -19129,7 +19297,7 @@
         {
           "index": 6,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -19190,7 +19358,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -19239,7 +19407,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -19278,7 +19446,7 @@
         {
           "index": 2,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -19317,7 +19485,7 @@
         {
           "index": 3,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -19356,7 +19524,7 @@
         {
           "index": 4,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -19395,7 +19563,7 @@
         {
           "index": 5,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -19473,7 +19641,7 @@
         {
           "index": 7,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -19534,7 +19702,7 @@
         {
           "index": 0,
           "title": "Press de Hombros (Máquina de Discos)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "059E835D",
           "superset_id": null,
           "sets": [
@@ -19573,7 +19741,7 @@
         {
           "index": 1,
           "title": "Jalón al Pecho (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6A6C31A5",
           "superset_id": null,
           "sets": [
@@ -19612,7 +19780,7 @@
         {
           "index": 2,
           "title": "Press banca pectoral recto",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
           "superset_id": null,
           "sets": [
@@ -19661,7 +19829,7 @@
         {
           "index": 3,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -19700,7 +19868,7 @@
         {
           "index": 4,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -19739,7 +19907,7 @@
         {
           "index": 5,
           "title": "Tirón a la Cara",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BE640BA0",
           "superset_id": null,
           "sets": [
@@ -19778,7 +19946,7 @@
         {
           "index": 6,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -19839,7 +20007,7 @@
         {
           "index": 0,
           "title": "Peso Muerto Rumano (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "72CFFAD5",
           "superset_id": null,
           "sets": [
@@ -19878,7 +20046,7 @@
         {
           "index": 1,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -19917,7 +20085,7 @@
         {
           "index": 2,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -19956,7 +20124,7 @@
         {
           "index": 3,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -19995,7 +20163,7 @@
         {
           "index": 4,
           "title": "Elevación de Gemelos a Una Pierna (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "B05C2C29",
           "superset_id": null,
           "sets": [
@@ -20056,7 +20224,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -20105,7 +20273,7 @@
         {
           "index": 1,
           "title": "Remo Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "55E6546F",
           "superset_id": null,
           "sets": [
@@ -20154,7 +20322,7 @@
         {
           "index": 2,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -20193,7 +20361,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -20232,7 +20400,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -20271,7 +20439,7 @@
         {
           "index": 5,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -20310,7 +20478,7 @@
         {
           "index": 6,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -20371,7 +20539,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -20420,7 +20588,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -20527,7 +20695,7 @@
         {
           "index": 4,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -20566,7 +20734,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -20605,7 +20773,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -20644,7 +20812,7 @@
         {
           "index": 7,
           "title": "Elevación de Gemelos Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "062AB91A",
           "superset_id": null,
           "sets": [
@@ -20705,7 +20873,7 @@
         {
           "index": 0,
           "title": "Press de Hombros (Máquina de Discos)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "059E835D",
           "superset_id": null,
           "sets": [
@@ -20754,7 +20922,7 @@
         {
           "index": 1,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -20803,7 +20971,7 @@
         {
           "index": 2,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -20854,7 +21022,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -20883,7 +21051,7 @@
         {
           "index": 1,
           "title": "Remo Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "55E6546F",
           "superset_id": null,
           "sets": [
@@ -20932,7 +21100,7 @@
         {
           "index": 2,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -20981,7 +21149,7 @@
         {
           "index": 3,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -21030,7 +21198,7 @@
         {
           "index": 4,
           "title": "Jalón con cuerda de brazos rectos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9273BA17",
           "superset_id": null,
           "sets": [
@@ -21059,7 +21227,7 @@
         {
           "index": 5,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -21098,7 +21266,7 @@
         {
           "index": 6,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -21188,7 +21356,7 @@
         {
           "index": 1,
           "title": "Sentadilla Péndulo (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "30E293E3",
           "superset_id": null,
           "sets": [
@@ -21227,7 +21395,7 @@
         {
           "index": 2,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -21305,7 +21473,7 @@
         {
           "index": 4,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -21366,7 +21534,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -21415,7 +21583,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -21513,7 +21681,7 @@
         {
           "index": 3,
           "title": "Cables Cruzados Bajos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "293483AD",
           "superset_id": null,
           "sets": [
@@ -21542,7 +21710,7 @@
         {
           "index": 4,
           "title": "Cables Cruzados",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "651F844C",
           "superset_id": null,
           "sets": [
@@ -21571,7 +21739,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -21610,7 +21778,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -21661,7 +21829,7 @@
         {
           "index": 0,
           "title": "Press de Hombros (Máquina de Discos)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "059E835D",
           "superset_id": null,
           "sets": [
@@ -21710,7 +21878,7 @@
         {
           "index": 1,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -21759,7 +21927,7 @@
         {
           "index": 2,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -21808,7 +21976,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -21857,7 +22025,7 @@
         {
           "index": 4,
           "title": "Encogimiento de Hombros (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "ABEC557F",
           "superset_id": null,
           "sets": [
@@ -21957,7 +22125,7 @@
         {
           "index": 1,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -21996,7 +22164,7 @@
         {
           "index": 2,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -22045,7 +22213,7 @@
         {
           "index": 3,
           "title": "Elevación de Gemelos a Una Pierna (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "B05C2C29",
           "superset_id": null,
           "sets": [
@@ -22106,7 +22274,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -22135,7 +22303,7 @@
         {
           "index": 1,
           "title": "Remo Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "55E6546F",
           "superset_id": null,
           "sets": [
@@ -22184,7 +22352,7 @@
         {
           "index": 2,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -22233,7 +22401,7 @@
         {
           "index": 3,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -22282,7 +22450,7 @@
         {
           "index": 4,
           "title": "Jalón con cuerda de brazos rectos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9273BA17",
           "superset_id": null,
           "sets": [
@@ -22311,7 +22479,7 @@
         {
           "index": 5,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -22360,7 +22528,7 @@
         {
           "index": 6,
           "title": "Curl Martillo (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "7E3BC8B6",
           "superset_id": null,
           "sets": [
@@ -22411,7 +22579,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -22460,7 +22628,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -22509,7 +22677,7 @@
         {
           "index": 2,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -22558,7 +22726,7 @@
         {
           "index": 3,
           "title": "Cables Cruzados Bajos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "293483AD",
           "superset_id": null,
           "sets": [
@@ -22587,7 +22755,7 @@
         {
           "index": 4,
           "title": "Cables Cruzados",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "651F844C",
           "superset_id": null,
           "sets": [
@@ -22616,7 +22784,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -22655,7 +22823,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -22706,7 +22874,7 @@
         {
           "index": 0,
           "title": "Press de Hombros (Máquina de Discos)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "059E835D",
           "superset_id": null,
           "sets": [
@@ -22755,7 +22923,7 @@
         {
           "index": 1,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -22804,7 +22972,7 @@
         {
           "index": 2,
           "title": "MAQUINA HOMBRO LATERAL PALANCA",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "8a7ae19d-966c-42f7-b78d-d5bb31ca7166",
           "superset_id": null,
           "sets": [
@@ -22853,7 +23021,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -22902,7 +23070,7 @@
         {
           "index": 4,
           "title": "Encogimiento de Hombros (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "ABEC557F",
           "superset_id": null,
           "sets": [
@@ -22963,7 +23131,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -22992,7 +23160,7 @@
         {
           "index": 1,
           "title": "Remo Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "55E6546F",
           "superset_id": null,
           "sets": [
@@ -23041,7 +23209,7 @@
         {
           "index": 2,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -23090,7 +23258,7 @@
         {
           "index": 3,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -23139,7 +23307,7 @@
         {
           "index": 4,
           "title": "Jalón con cuerda de brazos rectos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9273BA17",
           "superset_id": null,
           "sets": [
@@ -23168,7 +23336,7 @@
         {
           "index": 5,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -23229,7 +23397,7 @@
         {
           "index": 0,
           "title": "Peso Muerto Rumano (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "72CFFAD5",
           "superset_id": null,
           "sets": [
@@ -23268,7 +23436,7 @@
         {
           "index": 1,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -23307,7 +23475,7 @@
         {
           "index": 2,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -23356,7 +23524,7 @@
         {
           "index": 3,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -23405,7 +23573,7 @@
         {
           "index": 4,
           "title": "Elevación de Gemelos a Una Pierna (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "B05C2C29",
           "superset_id": null,
           "sets": [
@@ -23466,7 +23634,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -23515,7 +23683,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -23564,7 +23732,7 @@
         {
           "index": 2,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -23613,7 +23781,7 @@
         {
           "index": 3,
           "title": "Cables Cruzados Bajos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "293483AD",
           "superset_id": null,
           "sets": [
@@ -23642,7 +23810,7 @@
         {
           "index": 4,
           "title": "Cables Cruzados",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "651F844C",
           "superset_id": null,
           "sets": [
@@ -23671,7 +23839,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": 0,
           "sets": [
@@ -23710,7 +23878,7 @@
         {
           "index": 6,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": 0,
           "sets": [
@@ -23749,7 +23917,7 @@
         {
           "index": 7,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -23800,7 +23968,7 @@
         {
           "index": 0,
           "title": "Press de Hombros (Máquina de Discos)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "059E835D",
           "superset_id": null,
           "sets": [
@@ -23849,7 +24017,7 @@
         {
           "index": 1,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -23947,7 +24115,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -23996,7 +24164,7 @@
         {
           "index": 4,
           "title": "Encogimiento de Hombros (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "ABEC557F",
           "superset_id": null,
           "sets": [
@@ -24057,7 +24225,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -24135,7 +24303,7 @@
         {
           "index": 2,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -24184,7 +24352,7 @@
         {
           "index": 3,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -24233,7 +24401,7 @@
         {
           "index": 4,
           "title": "Jalón con cuerda de brazos rectos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9273BA17",
           "superset_id": null,
           "sets": [
@@ -24262,7 +24430,7 @@
         {
           "index": 5,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -24323,7 +24491,7 @@
         {
           "index": 0,
           "title": "Peso Muerto Rumano (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "72CFFAD5",
           "superset_id": null,
           "sets": [
@@ -24342,7 +24510,7 @@
         {
           "index": 1,
           "title": "Curl de Pierna Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "11A123F3",
           "superset_id": null,
           "sets": [
@@ -24371,7 +24539,7 @@
         {
           "index": 2,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -24410,7 +24578,7 @@
         {
           "index": 3,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -24449,7 +24617,7 @@
         {
           "index": 4,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -24488,7 +24656,7 @@
         {
           "index": 5,
           "title": "Elevación de Gemelos a Una Pierna (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "B05C2C29",
           "superset_id": null,
           "sets": [
@@ -24549,7 +24717,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -24598,7 +24766,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -24647,7 +24815,7 @@
         {
           "index": 2,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -24696,7 +24864,7 @@
         {
           "index": 3,
           "title": "Cables Cruzados Bajos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "293483AD",
           "superset_id": null,
           "sets": [
@@ -24725,7 +24893,7 @@
         {
           "index": 4,
           "title": "Cables Cruzados",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "651F844C",
           "superset_id": null,
           "sets": [
@@ -24754,7 +24922,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": 0,
           "sets": [
@@ -24793,7 +24961,7 @@
         {
           "index": 6,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": 0,
           "sets": [
@@ -24832,7 +25000,7 @@
         {
           "index": 7,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -24883,7 +25051,7 @@
         {
           "index": 0,
           "title": "Elevación de cadera (Máquina Smith)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "291ABA92",
           "superset_id": null,
           "sets": [
@@ -24961,7 +25129,7 @@
         {
           "index": 2,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -25000,7 +25168,7 @@
         {
           "index": 3,
           "title": "Abducción de Caderas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "F4B4C6EE",
           "superset_id": null,
           "sets": [
@@ -25039,7 +25207,7 @@
         {
           "index": 4,
           "title": "Elevación de Gemelos de Pie (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "E05C2C38",
           "superset_id": null,
           "sets": [
@@ -25100,7 +25268,7 @@
         {
           "index": 0,
           "title": "Press de Hombros (Máquina de Discos)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "059E835D",
           "superset_id": null,
           "sets": [
@@ -25149,7 +25317,7 @@
         {
           "index": 1,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -25198,7 +25366,7 @@
         {
           "index": 2,
           "title": "Elevacion Laterales (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D5D0354D",
           "superset_id": null,
           "sets": [
@@ -25247,7 +25415,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -25308,7 +25476,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -25337,7 +25505,7 @@
         {
           "index": 1,
           "title": "Remo Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "55E6546F",
           "superset_id": null,
           "sets": [
@@ -25484,7 +25652,7 @@
         {
           "index": 4,
           "title": "Jalón con cuerda de brazos rectos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9273BA17",
           "superset_id": null,
           "sets": [
@@ -25513,7 +25681,7 @@
         {
           "index": 5,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -25574,7 +25742,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -25623,7 +25791,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -25672,7 +25840,7 @@
         {
           "index": 2,
           "title": "Aperturas Inclinadas (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D3E2AB55",
           "superset_id": null,
           "sets": [
@@ -25721,7 +25889,7 @@
         {
           "index": 3,
           "title": "Cables Cruzados Bajos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "293483AD",
           "superset_id": null,
           "sets": [
@@ -25750,7 +25918,7 @@
         {
           "index": 4,
           "title": "Cables Cruzados",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "651F844C",
           "superset_id": null,
           "sets": [
@@ -25779,7 +25947,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -25859,7 +26027,7 @@
         {
           "index": 0,
           "title": "Peso Muerto Rumano (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "72CFFAD5",
           "superset_id": null,
           "sets": [
@@ -25898,7 +26066,7 @@
         {
           "index": 1,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -25937,7 +26105,7 @@
         {
           "index": 2,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -25976,7 +26144,7 @@
         {
           "index": 3,
           "title": "Extensión de Pierna",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "75A4F6C4",
           "superset_id": null,
           "sets": [
@@ -26025,7 +26193,7 @@
         {
           "index": 4,
           "title": "Elevación de Gemelos a Una Pierna (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "B05C2C29",
           "superset_id": null,
           "sets": [
@@ -26086,7 +26254,7 @@
         {
           "index": 0,
           "title": "Press de Hombros (Máquina de Discos)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "059E835D",
           "superset_id": null,
           "sets": [
@@ -26135,7 +26303,7 @@
         {
           "index": 1,
           "title": "Elevación Lateral a un Brazo (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DE68C825",
           "superset_id": null,
           "sets": [
@@ -26233,7 +26401,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -26343,7 +26511,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -26421,7 +26589,7 @@
         {
           "index": 2,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -26519,7 +26687,7 @@
         {
           "index": 4,
           "title": "Jalón con cuerda de brazos rectos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9273BA17",
           "superset_id": null,
           "sets": [
@@ -26548,7 +26716,7 @@
         {
           "index": 5,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -26609,7 +26777,7 @@
         {
           "index": 0,
           "title": "Curl de Pierna Sentado",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "11A123F3",
           "superset_id": null,
           "sets": [
@@ -26648,7 +26816,7 @@
         {
           "index": 1,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -26697,7 +26865,7 @@
         {
           "index": 2,
           "title": "Press de Piernas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "C7973E0E",
           "superset_id": null,
           "sets": [
@@ -26736,7 +26904,7 @@
         {
           "index": 3,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -26775,7 +26943,7 @@
         {
           "index": 4,
           "title": "Elevación de Gemelos a Una Pierna (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "B05C2C29",
           "superset_id": null,
           "sets": [
@@ -26836,7 +27004,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -26885,7 +27053,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -26934,7 +27102,7 @@
         {
           "index": 2,
           "title": "Mariposa (Pec Deck)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "9DCE2D64",
           "superset_id": null,
           "sets": [
@@ -26983,7 +27151,7 @@
         {
           "index": 3,
           "title": "Cables Cruzados Bajos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "293483AD",
           "superset_id": null,
           "sets": [
@@ -27012,7 +27180,7 @@
         {
           "index": 4,
           "title": "Cables Cruzados",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "651F844C",
           "superset_id": null,
           "sets": [
@@ -27041,7 +27209,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -27080,7 +27248,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
@@ -27131,7 +27299,7 @@
         {
           "index": 0,
           "title": "Press de Hombros (Máquina de Discos)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "059E835D",
           "superset_id": null,
           "sets": [
@@ -27180,7 +27348,7 @@
         {
           "index": 1,
           "title": "Elevacion Laterales (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "422B08F1",
           "superset_id": null,
           "sets": [
@@ -27229,7 +27397,7 @@
         {
           "index": 2,
           "title": "Elevacion Frontal (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "DBB91A3C",
           "superset_id": null,
           "sets": [
@@ -27278,7 +27446,7 @@
         {
           "index": 3,
           "title": "Vuelos Posteriores (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "D8281C62",
           "superset_id": null,
           "sets": [
@@ -27339,7 +27507,7 @@
         {
           "index": 0,
           "title": "Sentadilla Hack (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E42FD5F",
           "superset_id": null,
           "sets": [
@@ -27388,7 +27556,7 @@
         {
           "index": 1,
           "title": "Press de Piernas",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "C7973E0E",
           "superset_id": null,
           "sets": [
@@ -27427,7 +27595,7 @@
         {
           "index": 2,
           "title": "Curls de Piernas de Pie",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "6120CAAB",
           "superset_id": null,
           "sets": [
@@ -27466,7 +27634,7 @@
         {
           "index": 3,
           "title": "Elevación de Gemelos a Una Pierna (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "B05C2C29",
           "superset_id": null,
           "sets": [
@@ -27527,7 +27695,7 @@
         {
           "index": 0,
           "title": "Jalón al Pecho - Agarre Cerrado (Cable)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "4E5257DE",
           "superset_id": null,
           "sets": [
@@ -27615,7 +27783,7 @@
         {
           "index": 2,
           "title": "Remo Alto Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "BC3492DA",
           "superset_id": null,
           "sets": [
@@ -27664,7 +27832,7 @@
         {
           "index": 3,
           "title": "Remo Bajo Iso-Lateral",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "91FAFBA3",
           "superset_id": null,
           "sets": [
@@ -27703,7 +27871,7 @@
         {
           "index": 4,
           "title": "Curl predicador (máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "1E9A6B8E",
           "superset_id": null,
           "sets": [
@@ -27764,7 +27932,7 @@
         {
           "index": 0,
           "title": "Press de Banca Inclinado (Barra)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "50DFDFAB",
           "superset_id": null,
           "sets": [
@@ -27813,7 +27981,7 @@
         {
           "index": 1,
           "title": "Press de Banca en Declive (Máquina)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "FAF31231",
           "superset_id": null,
           "sets": [
@@ -27911,7 +28079,7 @@
         {
           "index": 3,
           "title": "Cables Cruzados Bajos",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "293483AD",
           "superset_id": null,
           "sets": [
@@ -27940,7 +28108,7 @@
         {
           "index": 4,
           "title": "Cables Cruzados",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "651F844C",
           "superset_id": null,
           "sets": [
@@ -27969,7 +28137,7 @@
         {
           "index": 5,
           "title": "Jalón de tríceps con cuerda",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "94B7239B",
           "superset_id": null,
           "sets": [
@@ -28018,7 +28186,7 @@
         {
           "index": 6,
           "title": "Press Francés (Mancuerna)",
-          "notes": "",
+          "notes": null,
           "exercise_template_id": "68F8A292",
           "superset_id": null,
           "sets": [
