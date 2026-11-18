@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T23:46:13.277435+00:00",
+  "updated_at": "2026-11-18T23:18:05.384040+00:00",
   "workout_count": {
     "workout_count": 119
   },
@@ -13,6 +13,7 @@
       "end_time": "2026-11-17T15:17:40+00:00",
       "updated_at": "2026-11-17T15:17:45.805Z",
       "created_at": "2026-11-17T15:17:45.805Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -259,6 +260,7 @@
       "end_time": "2026-11-16T15:07:20+00:00",
       "updated_at": "2026-11-16T15:07:27.417Z",
       "created_at": "2026-11-16T15:07:27.417Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -554,6 +556,7 @@
       "end_time": "2026-11-14T12:08:52+00:00",
       "updated_at": "2026-11-14T12:08:58.136Z",
       "created_at": "2026-11-14T12:08:58.136Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -771,6 +774,7 @@
       "end_time": "2026-11-13T15:37:37+00:00",
       "updated_at": "2026-11-13T15:37:41.739Z",
       "created_at": "2026-11-13T15:37:41.739Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -1017,6 +1021,7 @@
       "end_time": "2026-11-11T16:14:37+00:00",
       "updated_at": "2026-11-11T16:14:40.281Z",
       "created_at": "2026-11-11T16:14:40.281Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -1234,6 +1239,7 @@
       "end_time": "2026-11-10T15:56:12+00:00",
       "updated_at": "2026-11-10T15:56:15.926Z",
       "created_at": "2026-11-10T15:56:15.926Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -1480,6 +1486,7 @@
       "end_time": "2026-11-09T15:39:18+00:00",
       "updated_at": "2026-11-09T15:39:23.769Z",
       "created_at": "2026-11-09T15:39:23.769Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -1746,6 +1753,7 @@
       "end_time": "2026-11-05T16:29:59+00:00",
       "updated_at": "2026-11-05T16:30:21.868Z",
       "created_at": "2026-11-05T16:30:21.868Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -1992,6 +2000,7 @@
       "end_time": "2026-11-04T15:58:55+00:00",
       "updated_at": "2026-11-04T15:59:08.790Z",
       "created_at": "2026-11-04T15:59:08.790Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -2209,6 +2218,7 @@
       "end_time": "2026-11-02T12:25:47+00:00",
       "updated_at": "2026-11-02T12:25:51.609Z",
       "created_at": "2026-11-02T12:25:51.609Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -2416,6 +2426,7 @@
       "end_time": "2026-11-01T11:46:53+00:00",
       "updated_at": "2026-11-01T11:47:04.099Z",
       "created_at": "2026-11-01T11:47:04.099Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -2623,6 +2634,7 @@
       "end_time": "2026-10-06T14:46:35+00:00",
       "updated_at": "2026-10-06T14:46:39.153Z",
       "created_at": "2026-10-06T14:46:39.153Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -2791,6 +2803,7 @@
       "end_time": "2026-10-05T14:54:22+00:00",
       "updated_at": "2026-10-05T17:19:11.458Z",
       "created_at": "2026-10-05T14:54:28.537Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -2998,6 +3011,7 @@
       "end_time": "2026-09-19T13:48:58+00:00",
       "updated_at": "2026-09-19T13:49:02.128Z",
       "created_at": "2026-09-19T13:49:02.128Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -3205,6 +3219,7 @@
       "end_time": "2026-09-02T15:34:45+00:00",
       "updated_at": "2026-09-02T15:34:51.440Z",
       "created_at": "2026-09-02T15:34:51.440Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -3568,6 +3583,7 @@
       "end_time": "2026-08-31T14:25:01+00:00",
       "updated_at": "2026-08-31T14:25:08.714Z",
       "created_at": "2026-08-31T14:25:08.714Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -3707,6 +3723,7 @@
       "end_time": "2026-08-30T12:14:55+00:00",
       "updated_at": "2026-08-30T12:15:01.095Z",
       "created_at": "2026-08-30T12:15:01.095Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -3953,6 +3970,7 @@
       "end_time": "2026-08-29T12:28:38+00:00",
       "updated_at": "2026-08-29T12:28:59.118Z",
       "created_at": "2026-08-29T12:28:59.118Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -4209,6 +4227,7 @@
       "end_time": "2026-08-19T11:22:53+00:00",
       "updated_at": "2026-08-19T11:46:46.357Z",
       "created_at": "2026-08-19T11:46:46.357Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -4494,6 +4513,7 @@
       "end_time": "2026-08-17T15:58:35+00:00",
       "updated_at": "2026-08-17T15:58:41.740Z",
       "created_at": "2026-08-17T15:58:41.740Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -4789,6 +4809,7 @@
       "end_time": "2026-08-14T15:20:29+00:00",
       "updated_at": "2026-08-14T15:20:31.549Z",
       "created_at": "2026-08-14T15:20:31.549Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -5016,6 +5037,12 @@
       "end_time": "2026-08-12T14:49:28+00:00",
       "updated_at": "2026-08-12T15:43:57.420Z",
       "created_at": "2026-08-12T14:49:53.326Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-34b977bb-a844-4fe1-821c-116423bee691.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -5301,6 +5328,7 @@
       "end_time": "2026-08-11T14:44:33+00:00",
       "updated_at": "2026-08-11T14:44:35.625Z",
       "created_at": "2026-08-11T14:44:35.625Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -5596,6 +5624,7 @@
       "end_time": "2026-08-07T14:23:28+00:00",
       "updated_at": "2026-08-07T14:23:44.479Z",
       "created_at": "2026-08-07T14:23:44.479Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -5842,6 +5871,7 @@
       "end_time": "2026-08-05T15:12:40+00:00",
       "updated_at": "2026-08-05T15:12:45.755Z",
       "created_at": "2026-08-05T15:12:45.755Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -6127,6 +6157,7 @@
       "end_time": "2026-08-04T15:36:44+00:00",
       "updated_at": "2026-08-04T15:36:55.989Z",
       "created_at": "2026-08-04T15:36:55.989Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -6422,6 +6453,12 @@
       "end_time": "2026-08-03T15:13:33+00:00",
       "updated_at": "2026-08-03T15:14:08.747Z",
       "created_at": "2026-08-03T15:14:08.747Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-03f64ed0-34f6-4d13-97f1-900d29c4cb03.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -6649,6 +6686,7 @@
       "end_time": "2026-08-01T15:25:16+00:00",
       "updated_at": "2026-08-01T15:25:34.093Z",
       "created_at": "2026-08-01T15:25:34.093Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -6895,6 +6933,7 @@
       "end_time": "2026-07-30T16:26:21+00:00",
       "updated_at": "2026-07-30T20:19:51.705Z",
       "created_at": "2026-07-30T16:27:16.704Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -7122,6 +7161,16 @@
       "end_time": "2026-07-28T15:24:16+00:00",
       "updated_at": "2026-07-28T15:24:45.630Z",
       "created_at": "2026-07-28T15:24:45.630Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-dd7d1e3e-438d-4539-851b-fc9688b35ab0.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-4c5a673b-fcd0-4e04-a07c-311ae289923b.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -7407,6 +7456,7 @@
       "end_time": "2026-07-27T15:00:41+00:00",
       "updated_at": "2026-07-27T15:01:08.080Z",
       "created_at": "2026-07-27T15:01:08.080Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -7702,6 +7752,12 @@
       "end_time": "2026-07-23T18:50:11+00:00",
       "updated_at": "2026-07-23T18:50:44.944Z",
       "created_at": "2026-07-23T18:50:44.944Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-27b9b278-c740-45cf-bd8e-bb2d0923b88d.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -7948,6 +8004,12 @@
       "end_time": "2026-07-22T19:23:56+00:00",
       "updated_at": "2026-07-23T08:03:11.462Z",
       "created_at": "2026-07-22T19:24:54.263Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-382be821-e3af-471d-bf3b-0b2de849ebf7.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -8204,6 +8266,7 @@
       "end_time": "2026-07-21T19:02:39+00:00",
       "updated_at": "2026-07-21T19:02:58.114Z",
       "created_at": "2026-07-21T19:02:58.114Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -8402,6 +8465,12 @@
       "end_time": "2026-07-19T13:18:13+00:00",
       "updated_at": "2026-07-19T13:49:29.081Z",
       "created_at": "2026-07-19T13:49:29.081Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-e71f90b6-22c5-415e-a1cc-eb42df192566.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -8648,6 +8717,12 @@
       "end_time": "2026-07-18T16:20:50+00:00",
       "updated_at": "2026-07-18T16:22:15.584Z",
       "created_at": "2026-07-18T16:22:15.584Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-8a1fbb4f-1dbc-4c2f-9cc1-5d882b14696a.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -8943,6 +9018,7 @@
       "end_time": "2026-07-16T16:27:22+00:00",
       "updated_at": "2026-07-16T16:27:24.741Z",
       "created_at": "2026-07-16T16:27:24.741Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -9189,6 +9265,7 @@
       "end_time": "2026-07-13T15:45:47+00:00",
       "updated_at": "2026-07-13T15:45:51.095Z",
       "created_at": "2026-07-13T15:45:51.095Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -9484,6 +9561,7 @@
       "end_time": "2026-07-07T14:34:15+00:00",
       "updated_at": "2026-07-23T08:26:43.404Z",
       "created_at": "2026-07-07T14:34:52.929Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -9730,6 +9808,7 @@
       "end_time": "2026-07-06T15:02:57+00:00",
       "updated_at": "2026-07-06T15:03:02.355Z",
       "created_at": "2026-07-06T15:03:02.355Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -10025,6 +10104,7 @@
       "end_time": "2026-06-29T15:18:55+00:00",
       "updated_at": "2026-06-29T15:19:00.712Z",
       "created_at": "2026-06-29T15:19:00.712Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -10271,6 +10351,12 @@
       "end_time": "2026-06-28T12:47:44+00:00",
       "updated_at": "2026-06-29T14:59:50.258Z",
       "created_at": "2026-06-28T12:46:51.233Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-d4b1398d-75f6-411d-a13f-97ae949de32a.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -10498,6 +10584,12 @@
       "end_time": "2026-06-27T10:30:08+00:00",
       "updated_at": "2026-06-27T10:30:53.223Z",
       "created_at": "2026-06-27T10:30:53.223Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-b0565bfb-1daf-4c24-a356-70d9f69518c3.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -10744,6 +10836,12 @@
       "end_time": "2026-06-26T14:37:14+00:00",
       "updated_at": "2026-06-26T14:37:55.020Z",
       "created_at": "2026-06-26T14:37:55.020Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-1d69cbc4-3faa-4334-9f92-6add0a2f0a6a.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -10971,6 +11069,7 @@
       "end_time": "2026-06-09T15:04:00+00:00",
       "updated_at": "2026-06-09T15:06:23.547Z",
       "created_at": "2026-06-09T15:06:23.547Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -11217,6 +11316,7 @@
       "end_time": "2026-06-08T15:32:29+00:00",
       "updated_at": "2026-06-08T15:32:38.360Z",
       "created_at": "2026-06-08T15:32:38.360Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -11492,6 +11592,16 @@
       "end_time": "2026-06-07T12:21:29+00:00",
       "updated_at": "2026-06-07T14:35:00.000Z",
       "created_at": "2026-06-07T12:36:42.343Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-25198c2f-768e-4080-8e36-6e72ead98207.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-924f0a99-6e5f-4686-83ba-66fc07b37db4.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -11709,6 +11819,7 @@
       "end_time": "2026-06-04T15:05:13+00:00",
       "updated_at": "2026-06-04T15:05:20.833Z",
       "created_at": "2026-06-04T15:05:20.833Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -11994,6 +12105,7 @@
       "end_time": "2026-06-03T14:50:35+00:00",
       "updated_at": "2026-06-03T14:50:44.990Z",
       "created_at": "2026-06-03T14:50:44.990Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -12211,6 +12323,7 @@
       "end_time": "2026-06-02T15:48:36+00:00",
       "updated_at": "2026-06-02T15:58:28.800Z",
       "created_at": "2026-06-02T15:26:18.689Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -12486,6 +12599,7 @@
       "end_time": "2026-06-01T15:36:59+00:00",
       "updated_at": "2026-06-01T15:37:05.844Z",
       "created_at": "2026-06-01T15:37:05.844Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -12781,6 +12895,7 @@
       "end_time": "2026-05-28T15:02:44+00:00",
       "updated_at": "2026-06-01T09:21:26.110Z",
       "created_at": "2026-06-01T09:21:26.110Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -13027,6 +13142,7 @@
       "end_time": "2026-05-26T15:05:30+00:00",
       "updated_at": "2026-05-26T15:05:34.930Z",
       "created_at": "2026-05-26T15:05:34.930Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -13273,6 +13389,7 @@
       "end_time": "2026-05-18T14:13:40+00:00",
       "updated_at": "2026-05-18T14:13:44.716Z",
       "created_at": "2026-05-18T14:13:44.716Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -13519,6 +13636,12 @@
       "end_time": "2026-05-17T12:58:19+00:00",
       "updated_at": "2026-05-17T12:59:09.391Z",
       "created_at": "2026-05-17T12:59:09.391Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-5322a25c-a034-42a7-a152-130c4224db42.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -13736,6 +13859,7 @@
       "end_time": "2026-05-15T14:57:58+00:00",
       "updated_at": "2026-05-15T15:25:52.783Z",
       "created_at": "2026-05-15T15:25:52.783Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -14031,6 +14155,7 @@
       "end_time": "2026-05-14T15:25:44+00:00",
       "updated_at": "2026-05-14T15:56:56.739Z",
       "created_at": "2026-05-14T15:24:39.111Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -14248,6 +14373,7 @@
       "end_time": "2026-05-12T15:15:48+00:00",
       "updated_at": "2026-05-12T15:18:23.763Z",
       "created_at": "2026-05-12T15:18:23.763Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -14543,6 +14669,7 @@
       "end_time": "2026-05-11T15:16:41+00:00",
       "updated_at": "2026-05-11T15:16:53.147Z",
       "created_at": "2026-05-11T15:16:53.147Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -14838,6 +14965,7 @@
       "end_time": "2026-05-10T12:32:44+00:00",
       "updated_at": "2026-05-10T12:32:54.515Z",
       "created_at": "2026-05-10T12:32:54.515Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -15055,6 +15183,12 @@
       "end_time": "2026-05-08T14:58:17+00:00",
       "updated_at": "2026-05-08T15:01:00.478Z",
       "created_at": "2026-05-08T15:01:00.478Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-18726d5d-6292-403a-843e-4d80ea3e36a1.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -15360,6 +15494,12 @@
       "end_time": "2026-05-07T14:58:32+00:00",
       "updated_at": "2026-05-07T15:00:46.277Z",
       "created_at": "2026-05-07T15:00:46.277Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-8b2ce743-c8c7-4979-9e26-ab8f3319d7dc.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -15616,6 +15756,7 @@
       "end_time": "2026-05-05T14:41:11+00:00",
       "updated_at": "2026-05-05T14:41:20.110Z",
       "created_at": "2026-05-05T14:41:20.110Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -15872,6 +16013,7 @@
       "end_time": "2026-05-04T15:06:20+00:00",
       "updated_at": "2026-05-04T15:06:57.604Z",
       "created_at": "2026-05-04T15:06:57.604Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -16167,6 +16309,12 @@
       "end_time": "2026-05-01T11:35:45+00:00",
       "updated_at": "2026-05-03T16:13:53.005Z",
       "created_at": "2026-05-01T11:37:10.954Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-f8fa3407-d471-47a9-84b3-ef51b14d726f.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -16472,6 +16620,7 @@
       "end_time": "2026-04-30T15:35:05+00:00",
       "updated_at": "2026-04-30T21:42:00.993Z",
       "created_at": "2026-04-30T15:36:25.796Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -16728,6 +16877,12 @@
       "end_time": "2026-04-28T15:30:02+00:00",
       "updated_at": "2026-04-29T20:23:51.432Z",
       "created_at": "2026-04-28T15:30:28.682Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-ed138a50-45e0-4d93-a174-aa721cc27250.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -17072,6 +17227,12 @@
       "end_time": "2026-04-24T08:31:33+00:00",
       "updated_at": "2026-04-24T09:05:56.354Z",
       "created_at": "2026-04-24T09:05:56.354Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-eb645efb-386e-47ae-aeca-5b7458f0d523.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -17279,6 +17440,7 @@
       "end_time": "2026-04-23T19:41:04+00:00",
       "updated_at": "2026-04-24T08:38:54.932Z",
       "created_at": "2026-04-23T19:41:12.726Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -17564,6 +17726,12 @@
       "end_time": "2026-04-20T15:12:43+00:00",
       "updated_at": "2026-04-20T15:13:04.557Z",
       "created_at": "2026-04-20T15:13:04.557Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-e29dde14-94bf-4f6f-b07d-6495f68b59e7.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -17820,6 +17988,7 @@
       "end_time": "2026-04-19T11:12:48+00:00",
       "updated_at": "2026-04-19T11:13:14.092Z",
       "created_at": "2026-04-19T11:13:14.092Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -18037,6 +18206,12 @@
       "end_time": "2026-04-17T20:07:48+00:00",
       "updated_at": "2026-04-17T20:14:16.222Z",
       "created_at": "2026-04-17T20:14:16.222Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-0fbaba87-7957-4378-b841-902ac8c61b70.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -18313,6 +18488,12 @@
       "end_time": "2026-04-16T19:59:52+00:00",
       "updated_at": "2026-04-17T20:46:32.652Z",
       "created_at": "2026-04-16T20:00:39.830Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-e7d62418-fcec-47c2-885e-8d7e0df19576.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -18569,6 +18750,7 @@
       "end_time": "2026-04-13T15:23:48+00:00",
       "updated_at": "2026-04-13T15:24:20.668Z",
       "created_at": "2026-04-13T15:24:20.668Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -18913,6 +19095,12 @@
       "end_time": "2026-04-12T10:31:31+00:00",
       "updated_at": "2026-04-13T17:00:35.221Z",
       "created_at": "2026-04-12T10:32:30.313Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-3efd5594-9914-4a97-b411-cf7467e3a699.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -19130,6 +19318,7 @@
       "end_time": "2026-04-10T14:51:39+00:00",
       "updated_at": "2026-04-10T15:15:59.757Z",
       "created_at": "2026-04-10T15:15:59.757Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -19386,6 +19575,7 @@
       "end_time": "2026-04-09T15:04:58+00:00",
       "updated_at": "2026-04-10T10:41:25.852Z",
       "created_at": "2026-04-09T15:05:11.265Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -19671,6 +19861,12 @@
       "end_time": "2026-04-07T14:56:41+00:00",
       "updated_at": "2026-04-07T15:00:42.481Z",
       "created_at": "2026-04-07T15:00:42.481Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-b0bcc11e-cea9-4c09-8ca3-47ee1bb9dd26.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -19996,6 +20192,12 @@
       "end_time": "2026-04-06T15:02:17+00:00",
       "updated_at": "2026-04-06T15:06:25.418Z",
       "created_at": "2026-04-06T15:06:25.418Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-e030e600-b328-4afc-8a38-c538c7e77adb.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -20340,6 +20542,12 @@
       "end_time": "2026-04-04T11:40:39+00:00",
       "updated_at": "2026-04-04T11:43:48.380Z",
       "created_at": "2026-04-04T11:43:48.380Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-fb41a3ba-9321-4e12-861c-0c8e2a98e1f4.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -20606,6 +20814,7 @@
       "end_time": "2026-04-01T14:44:47+00:00",
       "updated_at": "2026-04-02T17:37:50.550Z",
       "created_at": "2026-04-02T17:37:50.550Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -20950,6 +21159,7 @@
       "end_time": "2026-03-30T15:46:39+00:00",
       "updated_at": "2026-04-11T09:25:30.749Z",
       "created_at": "2026-03-30T15:50:25.875Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -21118,6 +21328,7 @@
       "end_time": "2026-03-27T15:13:48+00:00",
       "updated_at": "2026-03-27T16:17:15.798Z",
       "created_at": "2026-03-27T15:13:56.659Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -21364,6 +21575,12 @@
       "end_time": "2026-03-26T15:48:42+00:00",
       "updated_at": "2026-03-26T16:53:44.019Z",
       "created_at": "2026-03-26T15:50:18.253Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-78250458-6806-4b10-a6a9-5335cdc14b1a.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -21649,6 +21866,7 @@
       "end_time": "2026-03-24T16:02:59+00:00",
       "updated_at": "2026-03-25T21:28:11.753Z",
       "created_at": "2026-03-24T16:06:59.300Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -21964,6 +22182,12 @@
       "end_time": "2026-03-23T16:09:04+00:00",
       "updated_at": "2026-03-23T16:10:13.911Z",
       "created_at": "2026-03-23T16:10:13.911Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-991fd558-e81b-4403-b234-8eaea0dd085b.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -22308,6 +22532,7 @@
       "end_time": "2026-03-20T15:58:20+00:00",
       "updated_at": "2026-03-20T16:00:55.919Z",
       "created_at": "2026-03-20T16:00:55.919Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -22613,6 +22838,12 @@
       "end_time": "2026-03-19T15:59:56+00:00",
       "updated_at": "2026-03-19T16:03:18.119Z",
       "created_at": "2026-03-19T16:03:18.119Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-58ee4a5b-6777-45a1-8fa4-c6a36a246253.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -22830,6 +23061,7 @@
       "end_time": "2026-03-17T16:01:43+00:00",
       "updated_at": "2026-03-17T16:04:52.508Z",
       "created_at": "2026-03-17T16:04:52.508Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -23145,6 +23377,12 @@
       "end_time": "2026-03-16T13:36:47+00:00",
       "updated_at": "2026-03-16T13:37:57.720Z",
       "created_at": "2026-03-16T13:37:57.720Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-2eb39910-a052-4449-92da-aecc7e02f035.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -23479,6 +23717,7 @@
       "end_time": "2026-03-10T15:11:18+00:00",
       "updated_at": "2026-03-11T13:07:14.471Z",
       "created_at": "2026-03-10T15:11:44.189Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -23628,6 +23867,12 @@
       "end_time": "2026-03-09T15:57:34+00:00",
       "updated_at": "2026-03-11T13:07:23.639Z",
       "created_at": "2026-03-09T16:01:54.925Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-0e0fa40b-6f7a-492d-9c5f-2f526874b089.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -23923,6 +24168,12 @@
       "end_time": "2026-03-08T13:32:02+00:00",
       "updated_at": "2026-03-11T13:07:25.618Z",
       "created_at": "2026-03-08T13:32:44.874Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-b0bbbe2c-e131-4dc0-9570-e080a00d248c.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -24140,6 +24391,16 @@
       "end_time": "2026-03-07T13:58:16+00:00",
       "updated_at": "2026-03-11T13:07:28.211Z",
       "created_at": "2026-03-07T13:59:34.186Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-201dd8cc-0946-41b0-bfe7-0ee10f43b347.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-1b993ecf-b0a8-490f-b14d-e6a1a501f18e.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -24435,6 +24696,12 @@
       "end_time": "2026-03-06T17:33:39+00:00",
       "updated_at": "2026-03-11T13:07:29.429Z",
       "created_at": "2026-03-06T17:39:16.069Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-578ed137-aa4a-4803-a326-5922e9f71461.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -24692,6 +24959,12 @@
       "end_time": "2026-03-05T15:43:08+00:00",
       "updated_at": "2026-03-05T15:47:56.488Z",
       "created_at": "2026-03-05T15:47:56.488Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-7e263da5-778c-452e-9a90-749100f48f39.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -24880,6 +25153,12 @@
       "end_time": "2026-03-03T15:54:09+00:00",
       "updated_at": "2026-03-04T14:32:43.285Z",
       "created_at": "2026-03-03T15:58:32.727Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-5d042c51-a95a-43a6-917e-b5350bc09370.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -25185,6 +25464,17 @@
       "end_time": "2026-03-02T15:22:54+00:00",
       "updated_at": "2026-03-03T05:39:45.842Z",
       "created_at": "2026-03-02T15:28:24.409Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-cd054bac-ef2a-4261-ba32-58c2366279ff.jpg",
+          "type": "image"
+        },
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/workout-videos/rafacasares-9385bb6b-e194-4e94-a70e-58e75edea07c.mp4",
+          "type": "video",
+          "thumbnail_url": "https://d2l9nsnmtah87f.cloudfront.net/workout-videos/rafacasares-9385bb6b-e194-4e94-a70e-58e75edea07c.mp4.thumb.jpg"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -25480,6 +25770,17 @@
       "end_time": "2026-02-26T15:47:09+00:00",
       "updated_at": "2026-03-03T05:39:15.825Z",
       "created_at": "2026-02-26T15:55:06.189Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/workout-videos/rafacasares-22e0b47f-c3e3-41a7-8c4d-1702e1a2c079.mp4",
+          "type": "video",
+          "thumbnail_url": "https://d2l9nsnmtah87f.cloudfront.net/workout-videos/rafacasares-22e0b47f-c3e3-41a7-8c4d-1702e1a2c079.mp4.thumb.jpg"
+        },
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-95faa932-f268-426a-ae94-9a6d8cb71d5d.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -25737,6 +26038,12 @@
       "end_time": "2026-02-24T15:40:34+00:00",
       "updated_at": "2026-02-24T15:41:27.352Z",
       "created_at": "2026-02-24T15:41:27.352Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-e875fbb4-a994-4c6b-a3bd-0709c57c1c62.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -26003,6 +26310,12 @@
       "end_time": "2026-02-23T15:36:42+00:00",
       "updated_at": "2026-02-23T15:38:41.209Z",
       "created_at": "2026-02-23T15:38:41.209Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-3eef3946-d554-4da4-8c7a-e059e4a310f0.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -26240,6 +26553,12 @@
       "end_time": "2026-02-22T13:50:27+00:00",
       "updated_at": "2026-02-24T05:57:50.168Z",
       "created_at": "2026-02-22T13:51:14.439Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-fe8db1ba-0c1b-4bd5-a2b2-4996e5f20603.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -26574,6 +26893,12 @@
       "end_time": "2026-02-20T15:56:02+00:00",
       "updated_at": "2026-02-20T17:18:36.499Z",
       "created_at": "2026-02-20T16:11:38.852Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-02852e51-be5f-4e85-8cc1-a9f934c5575d.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -26831,6 +27156,12 @@
       "end_time": "2026-02-19T12:56:19+00:00",
       "updated_at": "2026-02-20T17:18:29.931Z",
       "created_at": "2026-02-19T13:02:28.608Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-134bfad3-55d4-4ae1-b9a6-cfc51e2228f4.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -27097,6 +27428,7 @@
       "end_time": "2026-02-17T16:30:21+00:00",
       "updated_at": "2026-02-18T07:45:35.177Z",
       "created_at": "2026-02-17T16:30:26.660Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -27323,6 +27655,12 @@
       "end_time": "2026-02-16T15:57:06+00:00",
       "updated_at": "2026-02-18T05:51:22.662Z",
       "created_at": "2026-02-16T15:57:59.701Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-38fa0d50-2836-4355-9cd7-50b819a9d31a.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -27657,6 +27995,12 @@
       "end_time": "2026-02-14T16:04:25+00:00",
       "updated_at": "2026-02-14T18:11:06.335Z",
       "created_at": "2026-02-14T16:05:29.570Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-ec2d923f-6e9a-4297-adc9-05d1dd8dfd46.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -27874,6 +28218,7 @@
       "end_time": "2026-02-13T15:38:55+00:00",
       "updated_at": "2026-02-14T18:12:27.326Z",
       "created_at": "2026-02-13T15:39:24.625Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -28082,6 +28427,12 @@
       "end_time": "2026-02-12T15:56:32+00:00",
       "updated_at": "2026-02-14T09:54:32.521Z",
       "created_at": "2026-02-12T15:58:00.422Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-5fb9e643-dfca-4974-bd4a-d712eb3a8af8.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -28348,6 +28699,12 @@
       "end_time": "2026-02-10T15:30:26+00:00",
       "updated_at": "2026-02-11T14:24:55.568Z",
       "created_at": "2026-02-10T15:31:02.454Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-7570f2d0-d76b-44eb-89e5-7301ccfc49ee.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -28633,6 +28990,12 @@
       "end_time": "2026-02-09T15:35:58+00:00",
       "updated_at": "2026-02-10T08:22:04.754Z",
       "created_at": "2026-02-09T15:36:18.766Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-dfc000e7-9caa-44fc-bff6-8a6a1d27e864.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -28860,6 +29223,7 @@
       "end_time": "2026-02-08T12:17:24+00:00",
       "updated_at": "2026-03-05T19:54:19.641Z",
       "created_at": "2026-02-08T12:21:07.386Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -29117,6 +29481,7 @@
       "end_time": "2026-02-05T15:38:04+00:00",
       "updated_at": "2026-03-05T19:54:30.276Z",
       "created_at": "2026-02-05T15:41:11.246Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
@@ -29383,6 +29748,12 @@
       "end_time": "2026-02-04T15:37:29+00:00",
       "updated_at": "2026-02-04T15:56:08.623Z",
       "created_at": "2026-02-04T15:56:08.623Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-693335cd-4b8e-479e-96ae-ac032e65bfd1.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -29610,6 +29981,12 @@
       "end_time": "2026-02-02T15:26:54+00:00",
       "updated_at": "2026-02-02T15:32:23.281Z",
       "created_at": "2026-02-02T15:32:23.281Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-3b0547ea-21b5-444a-b6d4-19568ba076c1.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -29905,6 +30282,12 @@
       "end_time": "2026-01-30T16:12:17+00:00",
       "updated_at": "2026-01-31T14:01:29.086Z",
       "created_at": "2026-01-30T16:25:45.301Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-57c09f95-be7c-46f4-b366-fad5c9875da7.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -30113,6 +30496,12 @@
       "end_time": "2026-01-29T15:26:18+00:00",
       "updated_at": "2026-01-30T11:00:00.162Z",
       "created_at": "2026-01-29T15:30:28.149Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-e5abb649-280a-4ada-8998-484c2b2b8c17.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -30301,6 +30690,12 @@
       "end_time": "2026-01-28T15:47:00+00:00",
       "updated_at": "2026-01-28T17:02:03.992Z",
       "created_at": "2026-01-28T15:48:41.970Z",
+      "media": [
+        {
+          "url": "https://d2l9nsnmtah87f.cloudfront.net/profile-images/rafacasares-4374d466-327e-4dcb-ae37-1e278d778687.jpg",
+          "type": "image"
+        }
+      ],
       "exercises": [
         {
           "index": 0,
@@ -30538,6 +30933,7 @@
       "end_time": "2026-01-27T15:41:38+00:00",
       "updated_at": "2026-03-05T19:54:44.222Z",
       "created_at": "2026-01-27T15:42:51.630Z",
+      "media": [],
       "exercises": [
         {
           "index": 0,
